@@ -1,0 +1,268 @@
+{
+  "questions": [
+    {
+      "questionType": "text",
+      "question": "hello",
+      "options": [
+        "aaa",
+        "cxx",
+        "ccc",
+        "cccc"
+      ],
+      "subject": "Chemistry",
+      "difficulty": "NEET",
+      "chapter": "Organic Compounds Containing Nitrogen",
+      "answerKey": "a",
+      "standard": "12th",
+      "id": 5
+    },
+    {
+      "questionType": "text",
+      "question": "hii i am aaman",
+      "options": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "subject": "Chemistry",
+      "difficulty": "CET",
+      "chapter": "Hydrocarbons",
+      "answerKey": "a",
+      "standard": "11th",
+      "id": 6
+    },
+    {
+      "questionType": "text",
+      "question": "Which of the following statements about ionic crystals is correct?",
+      "options": [
+        "They are generally non-conductors in the solid state.",
+        "They have a high density due to close packing of ions",
+        "They have a variable melting point",
+        "They exhibit high electrical conductivity in the molten state"
+      ],
+      "subject": "Chemistry",
+      "difficulty": "CET",
+      "chapter": "The Solid State",
+      "answerKey": "d",
+      "standard": "12th",
+      "id": 7
+    },
+    {
+      "questionType": "text",
+      "question": "In a face-centered cubic (FCC) unit cell, how many atoms are effectively present?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "subject": "Chemistry",
+      "difficulty": "CET",
+      "chapter": "The Solid State",
+      "answerKey": "b",
+      "standard": "12th",
+      "id": 8
+    },
+    {
+      "questionType": "text",
+      "question": "Which type of defect is created when an extra atom is inserted into the lattice of a crystal?",
+      "options": [
+        "Vacancy defect",
+        "Interstitial defect",
+        "Schottky defect",
+        "Frenkel defect"
+      ],
+      "subject": "Chemistry",
+      "difficulty": "CET",
+      "chapter": "The Solid State",
+      "answerKey": "b",
+      "standard": "12th",
+      "id": 9
+    },
+    {
+      "questionType": "text",
+      "question": "The packing efficiency of a body-centered cubic (BCC) lattice is:",
+      "options": [
+        "52%",
+        "68%",
+        "74%",
+        "80%"
+      ],
+      "subject": "Chemistry",
+      "difficulty": "CET",
+      "chapter": "The Solid State",
+      "answerKey": "b",
+      "standard": "12th",
+      "id": 10
+    },
+    {
+      "questionType": "text",
+      "question": "Which of the following is NOT a characteristic of crystalline solids?",
+      "options": [
+        "They have a regular geometric shape.",
+        "They have a definite melting point.",
+        "They exhibit anisotropy",
+        "They are isotropic."
+      ],
+      "subject": "Chemistry",
+      "difficulty": "CET",
+      "chapter": "The Solid State",
+      "answerKey": "d",
+      "standard": "12th",
+      "id": 11
+    }
+  ],
+  "chapters": [
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "The Solid State"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Solutions"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Electrochemistry"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Chemical Kinetics"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Surface Chemistry"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "General Principles and Processes of Isolation of Elements"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "p-Block Elements"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "d and f Block Elements"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Coordination Compounds"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Haloalkanes and Haloarenes"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Alcohols, Phenols and Ethers"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Organic Compounds Containing Nitrogen"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Biomolecules"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Polymers"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "12th",
+      "name": "Environmental Chemistry"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Some Basic Concepts of Chemistry"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Structure of Atom"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "States of Matter: Gases and Liquids"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Thermodynamics"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Equilibrium"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Redox Reactions"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Hydrogen"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "s-Block Element (Alkali and Alkaline Earth Metals)"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Some p-Block Elements"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Organic Chemistry - Some Basic Principles and Techniques"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Hydrocarbons"
+    },
+    {
+      "subject": "Chemistry",
+      "standard": "11th",
+      "name": "Environmental Chemistry"
+    }
+  ]
+}

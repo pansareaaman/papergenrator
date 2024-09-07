@@ -1,0 +1,25 @@
+@media print {
+    /* Hide everything by default */
+    body * {
+        visibility: hidden;
+    }
+    
+    /* Ensure the printable content starts at the top */
+    .print-area {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    
+    /* Only show the printable content */
+    #print-questions, #print-answer-key {
+        display: block;
+        visibility: visible;
+    }
+    
+    /* Hide timestamp if present */
+    .timestamp {
+        display: none;
+    }
+}
